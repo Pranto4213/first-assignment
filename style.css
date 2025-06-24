@@ -93,12 +93,15 @@ a{text-decoration: none; font-size: 25px;}
 .body-heading{text-align: center;
 font-size: 40px;
 font-weight: 800;}
-
+/* 
 .body-discreption{text-align: center ;
     justify-content: center;
     padding: 0 99px
 
-;}
+;} */
+
+.body-ins-discreption{font-size: 18px;
+   text-align: center; padding: 0 100px;}
 .body-container{padding-right: 50px;margin-top: 50px;}
 .body-vedio{margin-top: 40px;border:0.4px solid ;
 padding: 30px;border-radius: 9px;}
@@ -119,3 +122,16 @@ gap: 25px;}
 .box5{background-color:#faf8fa ;}
 .box6{background-color:#f3f3fd ;}
 .box5{background-color:#f2f3ed ;}
+
+
+
+/* next target style */
+
+
+.next-target-container{display: flex; border: 1px solid rgb(223, 221, 221);border-radius: 10px;gap: 50px;}
+
+
+.app-diccrepsion{font-size: 20px;padding-right: 280px;}
+
+.app-img{justify-content: center;
+align-items: center;padding: 50px;}
